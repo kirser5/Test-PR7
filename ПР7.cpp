@@ -228,7 +228,3 @@ int main()
     input();
     return 0;
 }
-/*  if (coun == 0) {
-                cout << "Таблица пуста" << endl;
-                break;
-            }*/
